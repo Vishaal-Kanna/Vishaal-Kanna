@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Computer Vision problems**
 
-- 👨‍💻 All of my projects are available at [https://vishaal-kanna.github.io/](https://vishaal-kanna.github.io/)
+- 👨‍💻 All of my projects are available at [[https://vishaal-kanna.github.io/](https://sites.google.com/view/vishaal-kanna)]([https://vishaal-kanna.github.io/](https://sites.google.com/view/vishaal-kanna))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
